@@ -6,19 +6,19 @@ If you'd like to use these checklists to help you prepare for your personal OL w
 
 ## Checklists:
 
-- [Pre-departure checklist]()
-- ["Locker bag" packing checklist]()
-- ["Items you'll be glad you packed!" checklist]()
+- [Pre-departure checklist](https://github.com/mattlebel/Outside-Lands-2016/blob/master/checklists/pre_departure_checklist.md)
+- ["Locker bag" packing checklist](https://github.com/mattlebel/Outside-Lands-2016/blob/master/checklists/locker_bag_packing_checklist.md)
+- ["Items you'll be glad you packed!" checklist](https://github.com/mattlebel/Outside-Lands-2016/blob/master/checklists/secret_items_checklist.md)
 
 ## Schedule
 
-My schedule for the 2016 festival is located [here]().
+My schedule for the 2016 festival is located [here](https://github.com/mattlebel/Outside-Lands-2016/blob/master/music_schedule.md).
 
 Open up a PR if you want to meet up at a specific show 😎!
 
 ## FAQs + Useful Links
 
-Here's a handful of useful link
+Here's a handful of useful links:
 
 - [Set times for Outside Lands 2016](http://lineup.sfoutsidelands.com/events/2016/08/05/)
 - [A List of what you can and cannot bring to the festival](http://www.sfoutsidelands.com/festival-info/entry)
