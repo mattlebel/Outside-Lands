@@ -1,8 +1,8 @@
 # Locker Bag Packing Checklist
 
-What is a locker bag?
+**What is a locker bag?**
 
-![Locker bag contents]()
+![Locker bag contents](https://github.com/mattlebel/Outside-Lands/blob/master/images/locker_bag.jpg?raw=true)
 
 Every year, there are a handful of lockers available to festival attendees. They usually sell out by Noon on the first day of the festival, but if you can snag one, they're incredibly useful for you and your friends.
 
@@ -20,4 +20,4 @@ If you're lucky enough to grab one, here's what I suggest that you load it up wi
 - [ ] Phone charger and charging cables (both iPhone and Android)
 - [ ] Plastic bags (to keep things organized during festival entry security inspection)
 
-![Locker bag contents in plastic bags]()
+![Locker bag contents in plastic bags](https://github.com/mattlebel/Outside-Lands/blob/master/images/locker_bag_plastic_bags.jpg?raw=true)
