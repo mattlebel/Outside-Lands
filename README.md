@@ -8,7 +8,7 @@ If you'd like to use these checklists to help you prepare for your personal OL w
 
 - [Pre-departure checklist](https://github.com/mattlebel/Outside-Lands-2016/blob/master/checklists/pre_departure_checklist.md)
 - ["Locker bag" packing checklist](https://github.com/mattlebel/Outside-Lands-2016/blob/master/checklists/locker_bag_packing_checklist.md)
-- ["Items you'll be glad you packed!" checklist](https://github.com/mattlebel/Outside-Lands-2016/blob/master/checklists/secret_items_checklist.md)
+- ["Things you'll be glad you packed!" checklist](https://github.com/mattlebel/Outside-Lands-2016/blob/master/checklists/secret_items_checklist.md)
 
 ## Schedule
 
