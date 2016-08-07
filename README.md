@@ -12,7 +12,9 @@ If you'd like to use these checklists to help you prepare for your personal OL w
 
 ## Schedule
 
-My schedule for the 2016 festival is located [here](https://github.com/mattlebel/Outside-Lands-2016/blob/master/music_schedule.md).
+My schedule for the 2017 festival will be posted [here]() once the lineup is announced.
+
+*My schedules from previous years are available [here]().*
 
 Open up a PR if you want to meet up at a specific show 😎!
 
@@ -20,8 +22,7 @@ Open up a PR if you want to meet up at a specific show 😎!
 
 Here's a handful of useful links:
 
-- [Set times for Outside Lands 2016](http://lineup.sfoutsidelands.com/events/2016/08/05/)
+- [Set times for Outside Lands 2017 (TBD)]()
 - [A List of what you can and cannot bring to the festival](http://www.sfoutsidelands.com/festival-info/entry)
 - [Official Outside Lands FAQs](http://www.sfoutsidelands.com/festival-info/faqs)
-- [A printable park map + set list](http://www.sfgate.com/file/166/9/1669-Outside%20Lands%202016.pdf)
-- [A link for 25% off one Lyft ride to or from Golden Gate Park (limited availability)](http://click.lyftmail.com/?qs=ae595f681fc977b7c401ccf31199a525cc7aec8aa202eae23507839055171711d85d4b4dfc019f6c0e01d465ea16f69f)
+- [A printable park map + set list (TBD)]()
