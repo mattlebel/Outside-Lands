@@ -1,4 +1,4 @@
-# Outside Lands 2016!
+# Outside Lands 2017!
 
 A guide to packing and preparing for the Outside Lands music festival in San Francisco.
 
@@ -12,9 +12,9 @@ If you'd like to use these checklists to help you prepare for your personal OL w
 
 ## Schedule
 
-My schedule for the 2017 festival will be posted [here]() once the lineup is announced.
+My schedule for the 2017 festival is posted [here](/schedules/OL_2017.md).
 
-*My schedules from previous years are available [here]().*
+*My schedules from previous years are available [here](/schedules).*
 
 Open up a PR if you want to meet up at a specific show 😎!
 
@@ -22,7 +22,6 @@ Open up a PR if you want to meet up at a specific show 😎!
 
 Here's a handful of useful links:
 
-- [Set times for Outside Lands 2017 (TBD)]()
+- [Set times for Outside Lands 2017](http://lineup.sfoutsidelands.com/events/2017/08/11/)
 - [A List of what you can and cannot bring to the festival](http://www.sfoutsidelands.com/festival-info/entry)
 - [Official Outside Lands FAQs](http://www.sfoutsidelands.com/festival-info/faqs)
-- [A printable park map + set list (TBD)]()

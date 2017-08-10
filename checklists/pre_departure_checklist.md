@@ -1,7 +1,7 @@
 # Pre-Departure Checklist
 
 ## One-Time Items
-- [ ] [Register entry wristband(s)](https://sfoutsidelands2016.pay.intellifest.com/quicklink)
+- [ ] [Register entry wristband(s)](https://www.sfoutsidelands.com/wristbands/)
 - [ ] Laundry done and clothes laid out for each day
 
 ## Repeat Each Day
