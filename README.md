@@ -25,3 +25,9 @@ Here's a handful of useful links:
 - [Set times for Outside Lands 2017](http://lineup.sfoutsidelands.com/events/2017/08/11/)
 - [A List of what you can and cannot bring to the festival](http://www.sfoutsidelands.com/festival-info/entry)
 - [Official Outside Lands FAQs](http://www.sfoutsidelands.com/festival-info/faqs)
+
+## Have a Chase Sapphire card?
+
+Have a Chase Sapphire Preferred or Chase Sapphire Reserve credit card? Be sure to bring it with you to outside lands.
+
+You'll get access to the [Chase Sapphire Lodge](https://www.sfoutsidelands.com/news/the-sapphire-lodge-presented-by-chase/) where you can score some free drinks and snacks.
